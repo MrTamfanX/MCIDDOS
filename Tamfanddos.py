@@ -16,9 +16,9 @@ def usage():
     print "#                     \033[1;91m##  \033[1;32m###   \033[1;91m  \033[1;32m   ##"
     print "#               \033[1;91m<--[MUSLIM CYBER INDONESIA]-->         \033[1;32m  ##"
     print "############################################################"
-    print "       Member:Mr.ZeeX_IND-K.R.A.S-EelehIND-WhoAmI-Weyt.Tm"
-    print "             PembuatDdos1:MrTamfanX Cyber Team"
-    print "             PembuatDdos2:Muslim Cyber Indonesia"
+    print "     Member:Mr.ZeeX_IND-K.R.A.S-EelehIND-WhoAmI-Weyt.Tm"
+    print "           PembuatDdos1:MrTamfanX Cyber Team"
+    print "          PembuatDdos2:Muslim Cyber Indonesia"
 def flood(victim, vport, duration):
     # Support us yaakk... :)
     # Okey Jadi disini saya membuat server, Ketika saya memanggil "SOCK_DGRAM" itu  menunjukkan  UDP type program
