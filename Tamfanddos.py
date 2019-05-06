@@ -11,6 +11,7 @@ def usage():
     print "#\033[1;91mCreator:MrTamfanX  \033[1;32m##      #      #               #"
     print "#\033[1;91mTeam   : MCI        \033[1;32m##     #      #                #"
     print "#\033[1;91mVersion:1.0        \033[1;32m##      #      #                #"
+    print "#\033[1!91mTQAdmin:MrTamfanX-MrRaphael-MrTheSpam-Mr.Dc-MrBlackHat-MrUknown1&2 #"
     print "#                     \033[1;91m ##     \033[1;32m#  \033[1;91m  \033[1;32m            #"
     print "#                     \033[1;91m##  \033[1;32m###   \033[1;91m  \033[1;32m            #"
     print "#               \033[1;91m<--[MUSLIM CYBER INDONESIA]-->         \033[1;32m#"
